@@ -1,0 +1,147 @@
+body{
+  background-color: #71DFE7;
+}
+h1 {
+  font-weight: 700;
+  letter-spacing: -0.042em;
+  line-height: 0.94em;
+  color: #f2c71a;
+  text-align: left;
+  font-size: 67px;
+  margin-left: 95px;
+  padding-top: 19%;
+}
+h2 {
+  font-size: 60px;
+  line-height: 1.333em;
+  margin-left: 70px;
+  color: black;
+}
+h3{
+  font-family: 'Ubuntu', sans-serif;
+  padding-top: 3%;
+  color: Black;
+  font-size: 50px;
+  margin-left: 9%
+}
+.My{
+  width: 590px;
+  padding-top: 19%;
+
+}
+.apple{
+  width: 27px;
+  size: 66%;
+  padding: 3px;
+}
+.Download{
+  margin: 5% 3% 5% 0;
+  padding-left: 2%;
+  margin-left: 50px;
+}
+.logo{
+  width: 70px;
+  background-color: #71DFE7;
+}
+#pricing{
+  background-color: #C9FBFF;
+  padding: 10%;
+  text-align: center;
+}
+.third{
+  width: 340px;
+}
+.second{
+  width: 340px;
+}
+.first{
+  width: 300px
+}
+p{
+  color: black;
+}
+.zee{
+  width: 198px;
+}
+h4{
+  text-align: center;
+  font-size: 30px;
+}
+h5{
+  text-align: center;
+  font-size: 40px;
+}
+.Apar{
+  width: 335px;
+}
+.villa{
+  width: 335px;
+}
+.sort{
+  width: 335px;
+}
+#Book{
+  background-color: skyblue;
+  padding-top: 5%;
+  padding-bottom: 3%;
+}
+h6{
+  font-size: 60px;
+  text-align: center;
+  color: #FF8B8B;
+}
+#Footer{
+  background-color: #F9D56E;
+  text-align: center;
+  padding-top: 32px;
+  padding-bottom: 30px;
+}
+
+body {
+  height: 100%;
+}
+
+#Boot {
+  display: -ms-flexbox;
+  display: -webkit-box;
+  display: flex;
+  -ms-flex-align: center;
+  -ms-flex-pack: center;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #F3EAC2;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-signin .checkbox {
+  font-weight: 400;
+}
+.form-signin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
